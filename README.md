@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in North Dakota
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `389078` |
 | Location | North Dakota |
 | Category | Food and Drink |
-| Full dataset size | 65 records |
-| Free sample size | 6 records (9.23%) |
-| Last export | 2026-04-23T17:35:52.213405+00:00 |
+| Full dataset size | 72 records |
+| Free sample size | 7 records (9.72%) |
+| Last export | 2026-05-01T05:49:23.543387+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-389078/releases/download/sample-latest/beamstation_389078_food_and_drink-us-nd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
